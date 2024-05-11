@@ -1,0 +1,14 @@
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto sistema e abstração\bin\Debug\net8.0\Projeto sistema e abstração.exe
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto sistema e abstração\bin\Debug\net8.0\Projeto sistema e abstração.deps.json
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto sistema e abstração\bin\Debug\net8.0\Projeto sistema e abstração.runtimeconfig.json
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto sistema e abstração\bin\Debug\net8.0\Projeto sistema e abstração.dll
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto sistema e abstração\bin\Debug\net8.0\Projeto sistema e abstração.pdb
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto sistema e abstração\obj\Debug\net8.0\Projeto sistema e abstração.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto sistema e abstração\obj\Debug\net8.0\Projeto sistema e abstração.AssemblyInfoInputs.cache
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto sistema e abstração\obj\Debug\net8.0\Projeto sistema e abstração.AssemblyInfo.cs
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto sistema e abstração\obj\Debug\net8.0\Projeto sistema e abstração.csproj.CoreCompileInputs.cache
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto sistema e abstração\obj\Debug\net8.0\Projeto sistema e abstração.dll
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto sistema e abstração\obj\Debug\net8.0\refint\Projeto sistema e abstração.dll
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto sistema e abstração\obj\Debug\net8.0\Projeto sistema e abstração.pdb
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto sistema e abstração\obj\Debug\net8.0\Projeto sistema e abstração.genruntimeconfig.cache
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto sistema e abstração\obj\Debug\net8.0\ref\Projeto sistema e abstração.dll
